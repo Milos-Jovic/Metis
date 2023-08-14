@@ -4,6 +4,7 @@ Nav:
 Home
 Login>
 Register >
+Contact us hello@metis.com
 
 
 
